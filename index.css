@@ -1,0 +1,528 @@
+header{
+    width: 100%;
+    height: 70px;
+    /* background-color: rgb(185, 184, 184); */
+    overflow: hidden;
+    top: 0;
+}
+header nav{
+    height: 100%;
+}
+header .row{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding-right: 70px;
+    height: 100%;
+}
+header .row ul{
+    display: flex;
+ list-style: none;
+ gap: 50px;
+ 
+}
+
+header .row ul li {
+ font-size: 17px;
+ color: black;
+
+ 
+}
+header .row ul li a{
+    font-size: 19px;
+    color: black;
+    text-decoration: none;
+   
+    
+}
+.home {
+   position: relative;
+    min-height: 92.5vh;
+    width: 100%;
+    background: url("./background.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-size: 180% 180%; */
+    /* animation: gradient-animation 18s ease infinite; */
+
+}
+
+
+.home .image{
+    
+    left: 200px;
+    top: 150px;
+    width: 500px;
+
+}
+.home  .image img{
+    width: 100%;
+
+}
+
+.aboutme{
+   color: rgb(0, 0, 0); 
+   right: 400px;
+   top: 200px;
+}
+.aboutme p{
+margin-top: 40px;
+font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;   
+font-size: 29px;
+}
+.aboutme h1{
+    margin-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+    font-size: 90px;
+    
+}
+.aboutme .buttons {
+    margin-top: 70px;
+    display: flex;
+    gap: 30px;
+}
+.aboutme .buttons button{
+    padding: 20px 30px;
+    border-radius: 12px;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+.about-us{
+    min-height: 92.5vh;
+  width: 100%;
+  padding: 90px 0;
+  background: #ddd;
+  /* overflow: hidden; */
+}
+.pic{
+  height: auto;
+  width:  302px;
+}
+.about{
+  width: 1130px;
+  max-width: 85%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 20px;
+}
+.about img{
+  height: 100%;
+  width: 100%;
+  max-width:360px ;
+}
+.text{
+ width: 100%;
+}
+.text h2{
+  font-size: 50px;
+  font-weight: 600;
+  margin-bottom: 10px;
+
+}
+.text h5{
+  font-size: 22px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+span{
+  color: #4070f4;
+}
+.text p{
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: 1px;
+}
+.data{
+  margin-top: 30px;
+}
+.hire{
+  font-size: 18px;
+  background: #4070f4;
+  color: #fff;
+  text-decoration: none;
+  border: none;
+  padding: 8px 25px;
+  border-radius: 6px;
+  transition: 0.5s;
+}
+.hire:hover{
+  background: #000;
+  border: 1px solid #4070f4;
+}
+
+
+
+.skills-section{
+    min-height: 92.5vh;
+    height: 100%;
+    width: 100%;
+    padding: 90px 0;
+    background: #ddd;
+    overflow: hidden;
+}
+.skills-section .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    gap: 10px;
+}
+.skills-section .container .circle{
+    position: absolute;
+    /* background-color: #4070f4; */
+    /* width: 300px; */
+    /* height: 190px; */
+    border-radius: 50%;
+    animation: rotate 60s infinite;
+    transform-origin: center;
+ 
+   
+}
+.skills-section .container .circle-1{
+    
+    border: 2px solid grey;
+    width: 200px;
+    height: 200px;
+    z-index: 60;
+    top:220px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.skills-section .container .circle-1 img{
+    
+    width: 340px;
+    height: 200px;
+}
+.skills-section .container .circle-2{
+    /* display: flex; */
+    /* justify-content: start; */
+    /* align-items: center; */
+    /* position: relative; */
+    border: 2px solid grey;    width: 400px;
+    height: 400px;
+    z-index: 50;
+    top:120px;
+    color: white;
+}
+.skills-section .container .circle h6 img{
+    border-radius: 50%;
+    width: 70px;
+    margin-left: 20px;
+    animation: skills-rotate 60s infinite;
+    transform-origin: center;
+    background-color: #000;
+
+ }
+
+ @keyframes skills-rotate {
+
+    0%{
+        rotate: 0deg;
+    }
+    100%{
+        rotate: -360deg;
+    }
+
+
+ }
+ .skills-section .container .circle-2 h6:nth-child(1) img{
+  position: absolute;
+  
+  top:40%;
+  left: -10px;
+}
+.skills-section .container .circle-2 h6:nth-child(2) img{
+    position: absolute;
+    
+    top:15px;
+    left: 140px;
+ }
+ .skills-section .container .circle-2 h6:nth-child(3) img{
+   
+    position: absolute;
+    
+    right: 20px;
+    top: 37%;
+ }
+ .skills-section .container .circle-2 h6:nth-child(4) img{
+   
+    position: absolute;
+    
+    right: 40%;
+    bottom: 20px;
+ }
+ 
+ 
+
+
+
+.skills-section .container .circle-3{
+  
+    border: 2px solid grey;    width: 600px;
+    height: 600px;
+    z-index: 40;
+    top: 30px;
+}
+.skills-section .container .circle-4{
+  
+    border: 2px solid grey;    width: 800px;
+    height: 800px;
+    z-index: 30;
+    top: -60px;
+}
+@keyframes rotate {
+    0%{
+        rotate: 0deg;
+    }
+    100%{
+        rotate: 360deg;
+    }
+}
+
+.skills-section .container .circle-3 h6:nth-child(1) img{
+   
+  position: absolute;
+  
+  top: 80px;
+  right: 90px;
+
+
+}
+.skills-section .container .circle-3 h6:nth-child(2) img{
+   
+  position: absolute;
+  
+  top: 100px;
+  left: 50px;
+
+
+}
+.skills-section .container .circle-3 h6:nth-child(3) img{
+   
+  position: absolute;
+  
+  bottom: 110px;
+  right: 75px;
+
+
+}
+.skills-section .container .circle-3 h6:nth-child(4) img{
+  
+  position: absolute;
+  bottom: 110px;
+  left: 50px;
+
+
+}
+
+
+.skills-section .container .circle-4 h6:nth-child(1) img{
+   
+  position: absolute;
+  
+  bottom:25%;
+  left: 40px;
+
+
+}
+.skills-section .container .circle-4 h6:nth-child(2) img{
+   
+  position: absolute;
+  
+  top: 160px;
+  left: 60px;
+
+
+}
+.skills-section .container .circle-4 h6:nth-child(3) img{
+   
+  position: absolute;
+  
+  top: 20px;
+  right: 290px;
+
+
+}
+.skills-section .container .circle-4 h6:nth-child(4) img{
+   
+  position: absolute;
+  
+  top: 35%;
+  right: 30px;
+
+
+}
+.skills-section .container .circle-4 h6:nth-child(5) img{
+   
+  position: absolute;
+  
+  bottom: 20%;
+  right: 80px;
+
+
+}
+
+.skills-section .container .circle-4 h6:nth-child(6) img{
+   
+  position: absolute;
+  
+  bottom: 20px;
+  right: 50%;
+
+
+}
+.conact-section{
+  padding-top: 100px;
+  height: 92.7vh;
+  background-image: initial;
+  background-color: rgb(27, 29, 30);
+  color: rgb(152, 143, 129);
+}
+.conact-logo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.conact-logo-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;  
+}
+.conact-logo-row{
+ 
+  display: flex;
+  gap: 50px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+a{
+  background-color: transparent;
+}
+@media 
+(max-width:850px) {
+  .about{
+    flex-direction: column;
+  }
+  
+}
+@media (max-width:1100px) {
+  .home{
+    flex-direction: column;
+  }
+  
+}
+@media (max-width:900px) {
+   .aboutme{
+    margin-bottom: 20px;
+    margin-left: 20px;
+   }
+  .aboutme p{
+    
+    
+    font-size: 29px;
+    }
+    .aboutme h1{
+ 
+        font-size: 60px;
+        
+    }
+    .home .image{
+    
+   
+      width: 400px;
+  
+  }
+}
+@media (max-width:400px) {
+  .aboutme{
+   margin-bottom: 20px;
+   margin-left: 20px;
+  }
+ .aboutme p{
+   
+   
+   font-size: 29px;
+   }
+   .aboutme h1{
+
+       font-size: 50px;
+       
+   }
+   .home .image{
+    
+   
+    width: 300px;
+
+}
+}
+@media (max-width:600px) {
+  header .row{
+
+    padding-right: 30px;
+
+}
+  header .row ul{
+    display: flex;
+ list-style: none;
+ gap: 20px;
+ 
+}
+
+header .row ul li {
+ font-size: 17px;
+ color: black;
+
+ 
+}
+header .row ul li a{
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+   
+    
+}
+  
+}
+@media (max-width:400px) {
+  header .row{
+
+    padding-right: 30px;
+
+}
+  header .row ul{
+    display: flex;
+ list-style: none;
+ gap: 15px;
+ 
+}
+
+header .row ul li {
+ font-size: 17px;
+ color: black;
+
+ 
+}
+header .row ul li a{
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+   
+    
+}
+  
+}

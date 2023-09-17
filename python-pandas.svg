@@ -1,0 +1,133 @@
+<svg id="All_in_one" data-name="All in one" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="150" viewBox="0 0 150 150">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        fill: #fbda42;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-2, .cls-3, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke: #000;
+        stroke-width: 0.07px;
+        stroke-dasharray: 0.28 0.14;
+      }
+
+      .cls-10, .cls-11, .cls-13, .cls-2, .cls-3, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #266ca5;
+      }
+
+      .cls-4 {
+        filter: url(#filter-2);
+      }
+
+      .cls-5, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-7 {
+        fill: #36100c;
+      }
+
+      .cls-8 {
+        fill: #372d2c;
+      }
+
+      .cls-9 {
+        fill: #391000;
+      }
+
+      .cls-10 {
+        fill: #2c1100;
+      }
+
+      .cls-11 {
+        fill: #ffb487;
+      }
+
+      .cls-12, .cls-13 {
+        fill: #830;
+      }
+    </style>
+    <filter id="filter" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="3" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2"/>
+      <feFlood result="flood" flood-opacity="0.75"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" stdDeviation="1.732" in="SourceAlpha"/>
+      <feFlood result="flood" flood-opacity="0.54"/>
+      <feComposite result="composite" operator="out" in2="blur"/>
+      <feOffset result="offset" dy="3"/>
+      <feComposite result="composite-2" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend" mode="multiply" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <image id="Layer_0" data-name="Layer 0" width="150" height="150" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQAAAAAUekxPAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAHdElNRQfjBBoSCgh9tsURAAAAJElEQVRIx+3IMQ0AAAgDsPnXTMIEYICjPZs9Js4555xzzrlXV5nXFcLm+QLoAAAAAElFTkSuQmCC"/>
+  <g id="Panda_logo" data-name="Panda logo">
+    <g class="cls-1">
+      <path class="cls-2" d="M110,41V58s0,11-15,17H56s-9.75,2.25-12,11v38s2.75,12.75,28,14c0,0,20.5,3,33-11,0,0,2.25-1.5,1-18H75v-5h51s13.75-4,14-33c0,0-1.25-26.5-14-30H110Z"/>
+      <path id="Shape_1_copy" data-name="Shape 1 copy" class="cls-3" d="M40,104V87.049S40,76.081,55,70.1H94s7.75,0.007,12-10.968V21.24S103.25,8.527,78,7.28c0,0-28.5-2.491-33,10.968,0,0-2.25,1.5-1,17.948H75v4.986L27,41S9.75,43.671,10,74.087c0,0,1.25,26.423,14,29.913H40Z"/>
+      <g class="cls-4">
+        <ellipse class="cls-5" cx="57.5" cy="23" rx="5.5" ry="6"/>
+        <ellipse id="Ellipse_4_copy" data-name="Ellipse 4 copy" class="cls-5" cx="92.5" cy="121" rx="5.5" ry="6"/>
+      </g>
+    </g>
+    <g id="Panda_logo-2" data-name="Panda logo">
+      <path class="cls-6" d="M59.828,42.428s13.246-5.561,24.483,4.356c0,0,9.957,7.322,6.76,21.225,0,0-1.279,8.064-10.962,11.03,0,0-2.01.185-2.923,3.337,0,0-1.644,6.21-6.577,5.468,0,0-2.649.742-7.308-5,0,0,0-1.39-4.294-1.483,0,0-10.962.185-13.885-12.976C45.12,68.38,40.1,50.167,59.828,42.428Z"/>
+      <path class="cls-7" d="M67.41,84.321s4.7,0.857,7.308-.556c0,0-2.01,1.831-4.02,1.761A4.053,4.053,0,0,1,67.41,84.321Z"/>
+      <path class="cls-8" d="M71.8,80.8s-0.594,1.552-1.188,1.576c0,0-.183.579-1.553-1.112,0,0-3.289-.023-3.38-1.112,0,0-.685-2.2,4.2-2.688,0,0,5.116-.626,5.3,1.483C75.175,78.946,74.718,80.475,71.8,80.8Z"/>
+      <path class="cls-6" d="M86.32,45.672s10.186,6.21,11.51,16.591a58.976,58.976,0,0,1-1.279,22.615s7.217-.533,11.693-15.942a21.727,21.727,0,0,0-6.578-21.5,18.445,18.445,0,0,0-13.154-5.468S88.1,45.255,86.32,45.672Z"/>
+      <path class="cls-9" d="M47.861,51.974s-7.628-2.41-5.116-10.1a8.337,8.337,0,0,1,7.674-4.82s5.344-.185,6.486,6.766C56.9,43.818,49.277,47.479,47.861,51.974Z"/>
+      <path class="cls-10" d="M44.755,62.54s-0.868,10.4,5.664,15.293a14.844,14.844,0,0,0,10.14,3.8s1.736-.958,4.2,2.781c0,0,3.38,4.464,7.856,3.337,0,0,2.832.015,5.3-6.673a2.861,2.861,0,0,1,2.741-2.132S92.532,75.439,91.8,61.428c0,0-1.188-15.741-17.266-19.742,0,0-1.69-4.665,2.558-7.322,0,0,6.669-4.943,11.145,3.986,0,0,1.736,4.372-1.827,7.415,0,0,10.277,6.04,11.51,16.776,0,0,1.462,9.006-1.188,23.079,0,0,11.008-6.472,12.059-19.834,0,0,2.1-17.178-15.347-22.986,0,0,19.366,3.259,20.554,25.766l-1,8.62-0.548,7.878a30.384,30.384,0,0,1-3.837,12.976s-3.06,7.569-10.231,6.766c0,0-3.654.664-4.659-1.391,0,0-1.142-1.328.365-3.429,0,0,1.6-7.909,1.279-9.454,0,0-7.08,17.394-10.962,19.742a14.126,14.126,0,0,1-15.256,3.893s-4.385-1.051-.548-6.3c0,0,3.837-9.392-.822-16.5,0,0-1.827-2.441-3.106.093,0,0-2.147,2.611-.548,10.844,0,0,2.238,6.782-1.918,8.342,0,0-5.847,1.915-11.51-4.171,0,0-4.979-5.36-7.034-19.556C43.659,86.917,39.274,68.1,44.755,62.54Z"/>
+      <g>
+        <path class="cls-10" d="M60.193,63.189a2.862,2.862,0,0,1,2.832,1.854,4.264,4.264,0,0,1,.548,3.244,40.281,40.281,0,0,0-1.553,3.8s-0.883,2.425-2.649,3.151c0,0-3.015.355-3.745-1.576,0,0-1.188-1.838-.091-5C55.534,68.658,57.24,63.807,60.193,63.189Z"/>
+        <path class="cls-11" d="M61.016,65.321a2.086,2.086,0,1,1-2.1,2.085A2.093,2.093,0,0,1,61.016,65.321Z"/>
+        <circle id="Ellipse_4_copy-2" data-name="Ellipse 4 copy" class="cls-12" cx="61.281" cy="67.406" r="1.094"/>
+        <circle class="cls-5" cx="60.891" cy="67" r="0.453"/>
+      </g>
+      <g id="Group_1_copy" data-name="Group 1 copy">
+        <path class="cls-10" d="M74.962,61.707a2.91,2.91,0,0,0-1.973,2.774,4.241,4.241,0,0,0,.657,3.213,39.476,39.476,0,0,1,2.816,2.946s1.7,1.921,3.6,1.936c0,0,2.938-.793,2.925-2.857,0,0,.445-2.147-1.717-4.676C81.274,65.044,77.938,61.18,74.962,61.707Z"/>
+        <path class="cls-11" d="M74.963,63.991a2.118,2.118,0,0,0-1.208,2.717,2.068,2.068,0,0,0,2.71,1.152,2.117,2.117,0,0,0,1.208-2.717A2.068,2.068,0,0,0,74.963,63.991Z"/>
+        <path id="Ellipse_4_copy-3" data-name="Ellipse 4 copy" class="cls-13" d="M75.074,65.038a1.094,1.094,0,0,0-.638,1.4,1.068,1.068,0,0,0,1.406.58,1.094,1.094,0,0,0,.638-1.4A1.068,1.068,0,0,0,75.074,65.038Z"/>
+        <path class="cls-6" d="M75.228,65.289a0.456,0.456,0,0,0,.3.55,0.449,0.449,0,0,0,.611-0.124,0.456,0.456,0,0,0-.3-0.55A0.449,0.449,0,0,0,75.228,65.289Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
